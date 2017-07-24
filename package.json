@@ -1,0 +1,22 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nova1023/New-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nova1023/New-Portfolio/issues"
+  },
+  "homepage": "https://github.com/nova1023/New-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
